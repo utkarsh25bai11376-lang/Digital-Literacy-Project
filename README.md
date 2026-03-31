@@ -42,6 +42,7 @@ Developed a personal digital portfolio showcasing skills, achievements, and onli
 ## Task 3: Platforms
 
 Explored various digital platforms and their uses in communication, learning, and business.
+Link:https://forms.gle/xbT4WVXqchL32gtp9  (Google Form).
 
 ## Task 4: Email Etiquette
 
