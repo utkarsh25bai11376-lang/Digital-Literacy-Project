@@ -1,4 +1,4 @@
-TASK 2: Reflection Notes
+# TASK 2: Reflection Notes
 
 To build a strong foundation for the next four years, I'm prioritizing GitHub, LinkedIn, and Stack Overflow as essential tools. GitHub will be my central coding space for managing projects, honing version control, and eventually joining open-source efforts to prove my hands-on skills.
 
